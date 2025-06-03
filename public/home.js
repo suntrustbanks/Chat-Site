@@ -117,7 +117,39 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>SunTrust Bank Support is a customer service resource provided by SunTrust Bank to assist customers with their banking and financial needs
+
+The SunTrust Bank Support Team Is Responsible for :
+
+1. Account Overview
+	•	View real-time balances and transaction history for checking, savings, credit cards, and loans.
+	•	Access detailed account statements and monitor recent activities.  
+
+2. Fund Transfers
+	•	Transfer funds between SunTrust accounts or to accounts at other banks.
+	•	Utilize Zelle® for quick and secure money transfers.   
+
+3. Bill Payments
+	•	Set up one-time or recurring bill payments.
+	•	Add and manage payees, and schedule payments in advance.  
+
+4. Mobile Deposit
+	•	Deposit checks remotely using your smartphone’s camera.
+	•	Funds are typically available within a few business days, depending on the check type and account status.  
+
+5. Alerts and Notifications
+	•	Set up custom alerts for account activities, such as low balances or large transactions.
+	•	Receive notifications via email or push alerts on your mobile device.
+
+6. Security Features
+	•	Utilize multi-factor authentication for enhanced security.
+	•	Manage device recognition and set up security questions.
+
+7. Customer Support Access
+	•	Securely message customer service representatives.
+	•	Access FAQs and support resources directly from the dashboard. 
+
+Thank you for choosing SunTrust Bank.</p>
           </div>
         `
         break
